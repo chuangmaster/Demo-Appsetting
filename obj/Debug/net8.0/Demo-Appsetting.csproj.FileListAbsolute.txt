@@ -45,4 +45,5 @@ D:\Repository\Demo-Appsetting\Demo-Appsetting\Demo-Appsetting\obj\Debug\net8.0\r
 D:\Repository\Demo-Appsetting\Demo-Appsetting\Demo-Appsetting\obj\Debug\net8.0\Demo-Appsetting.pdb
 D:\Repository\Demo-Appsetting\Demo-Appsetting\Demo-Appsetting\obj\Debug\net8.0\Demo-Appsetting.genruntimeconfig.cache
 D:\Repository\Demo-Appsetting\Demo-Appsetting\Demo-Appsetting\obj\Debug\net8.0\ref\Demo-Appsetting.dll
-D:\Repository\Demo-Appsetting\Demo-Appsetting\Demo-Appsetting\obj\Debug\net8.0\Demo-App.BBDE89F2.Up2Date
+D:\Repository\Demo-Appsetting\Demo-Appsetting\Demo-Appsetting\obj\Debug\net8.0\Demo-Appsetting.sourcelink.json
+D:\Repository\Demo-Appsetting\Demo-Appsetting\Demo-Appsetting\obj\Debug\net8.0\Demo-Appsetting.csproj.CopyComplete

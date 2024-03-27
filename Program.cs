@@ -2,11 +2,10 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System.Runtime.CompilerServices;
 
 IHostBuilder builder = Host.CreateDefaultBuilder(args).ConfigureHostConfiguration(configHost =>
 {
-    //使用環境變數來參數檔的設定，進而使appsettings.json 、 appsettings.{Environment}.json 設定被覆蓋
+    //使用環境變數來設定組態，進而使appsettings.json 、 appsettings.{Environment}.json 設定被覆蓋
     configHost.AddEnvironmentVariables(prefix: "ASPNETCORE_");
 });
 
